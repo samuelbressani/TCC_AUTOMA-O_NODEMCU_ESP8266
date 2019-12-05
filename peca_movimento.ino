@@ -7,7 +7,7 @@
 #define WIFI_PASSWORD "tefinha29" //Senha da rede WiFi
 #define FIREBASE_AUTH "S8BWxzbyiKr26y6vwMuW3Y18F3dm9gGMNLDSiAOP" //Chave secreta do servidor
 
-int PIR_Input = 5;//Entrada digital do sensor de movimento
+int PIR_Input = 16;//Entrada digital do sensor de movimento
 
 void setup()
 {  int i;
